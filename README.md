@@ -1,6 +1,6 @@
 # 🏫 School Management System
 
-** Jahid, Whatsapp: 8801309495010**
+## Jahid, Whatsapp: 8801309495010 
 
 A simple **School Management System** built with Python using Object-Oriented Programming (OOP). This project allows you to manage students, teachers, and library operations through a command-line interface (CLI).
 
